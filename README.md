@@ -2,6 +2,6 @@
 # Elo-Customer-Loyalty-Prediction
 Elo Merchant Category Recommendation is a Kaggle competition which is provided by Elo. As a payment Brand, Elo has built partnerships with merchants in order to offer promotions and discounts to card holders. Basically, These programs make the customer's choice more strongly towards the usage of Elo. But, they want to know, do these promotions actually work for customer and merchant. Elo needs to keep their customers so loyalty of the customers towards the brand is crucial. For Example, a customer using the Elo card with diverse merchants for a long time, this signifies the user's loyalty is high. The Problem is to find a metric which has to reflect the cardholder's loyalty with Elo payment brand. In this case study, I have attempted one such problem with the help of Machine Learning.
 
-I have explained each and every step of my approach for solving the case study on the blog linked below.
+I have explained every step of my approach for solving this case study in the blog linked below.
 
 Blog link : [Elo Customer Loyalty Prediction — Case Study](https://kundan-jha.medium.com/elo-customer-loyalty-prediction-case-study-5248b0e7c004) 
