@@ -4,4 +4,10 @@ Elo Merchant Category Recommendation is a Kaggle competition which is provided b
 
 I have explained every step of my approach for solving this case study in the blog linked below.
 
-Blog link : [Elo Customer Loyalty Prediction — Case Study](https://kundan-jha.medium.com/elo-customer-loyalty-prediction-case-study-5248b0e7c004) 
+Blog link : [Elo Customer Loyalty Prediction — Case Study](https://kundan-jha.medium.com/elo-customer-loyalty-prediction-case-study-5248b0e7c004)
+
+You can see the deployment part below :
+
+![59jede](https://user-images.githubusercontent.com/50130996/118289459-fe82c380-b4f2-11eb-8b41-e0a757780bc2.gif)
+
+Feel free to play with codes, If you have a crazy idea, then pull request :)
