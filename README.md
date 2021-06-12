@@ -8,7 +8,7 @@ Blog link : [Elo Customer Loyalty Prediction — Case Study](https://kundan-jha.
 
 You can see the deployment part below :
 
-![59jede](https://user-images.githubusercontent.com/50130996/118289459-fe82c380-b4f2-11eb-8b41-e0a757780bc2.gif)
+https://user-images.githubusercontent.com/50130996/121783729-e6739200-cbcd-11eb-81b0-7407eb6fff27.mov
 
 YouTube link : [https://youtu.be/D0A13SzI0_8](https://youtu.be/D0A13SzI0_8)
 
